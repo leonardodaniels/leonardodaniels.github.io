@@ -1,0 +1,25 @@
+body{
+	background-image: url("image/sunset.jpg");
+	background-position: center center;
+	margin: 0;
+	 background-size:cover;
+
+	
+}
+/*}
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}*/
+.top_nav_item{
+	color:rgb(239, 26, 200)
+}
+.page_content{
+	margin: 50px auto;
+	background-color: rgba(208,216,215,.5);
+	width: 75%;
+	height:75%;
+	padding: 20px;
+	font-size: 4em;
+}

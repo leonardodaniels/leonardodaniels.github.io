@@ -1,0 +1,66 @@
+html{
+	min-height: 100%;
+	overflow: auto;
+}
+
+body {
+	background-color:lightblue;
+	font-family: 'Quicksand', sans-serif;
+
+
+
+}
+
+header{
+	margin: 20px;
+}
+
+
+#top_nav{
+	text-align: right;
+
+}
+#page_content {
+	width: 85%;
+	margin: auto;
+}
+#title {
+	text-align:center;
+	border-top-left-radius: 20px; 
+		border-top-right-radius: 20px; 
+		background-color: snow;
+		text-shadow: 1px 1px 1px darkgrey;
+		font-size: 2em;
+		letter-spacing: .2em;
+		color: midnightblue;
+
+}
+.top_nav_item {
+	text-align: right;
+	margin: 10px;
+	color: midnightblue;
+	text-decoration: none;
+	font-size: 1.2em;
+}
+
+.top_nav_item:hover {
+	margin: 10px;
+	color: white;
+	text-decoration: none;
+}
+
+img {
+	border: darkgrey 3px solid;
+	box-shadow: 5px 5px 5px lightblue;
+	width: 250px;
+	margin-right:20px;
+	float: left;
+	margin: right 20px;
+}
+#current_page {
+	border-bottom: 2px solid midnightblue;
+}
+#logo{
+	border:none;
+	box-shadow: none;
+}
